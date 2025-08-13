@@ -1,7 +1,6 @@
 # TelecomX_parte2
-
- \#\# Descrição do Projeto
-Este projeto faz parte do **Challenge ONE Data Science da Alura**, focado na análise de dados da empresa TelecomX para construir um modelo de Machine Learning capaz de prever a **evasão de clientes (Churn)**. A partir dos dados tratados na primeira etapa do desafio, o objetivo é identificar os fatores que mais influenciam o cancelamento de serviços e desenvolver um modelo preditivo para identificar clientes com alto risco de churn, permitindo que a empresa tome ações proativas de retenção.
+ 
+Este projeto faz parte do **Challenge ONE Data Science da Alura**, focado na análise de dados da empresa TelecomX para construir um modelo de Machine Learning capaz de prever a **evasão de clientes (Churn)**. A partir dos dados tratados na primeira etapa do desafio, o objetivo é identificar os fatores que mais influenciam o cancelamento de serviços e desenvolver um modelo preditivo para identificar clientes com alto risco de cancelamento do serviço, permitindo que a empresa tome ações proativas de retenção.
 
 ## 📝 Etapas
 
