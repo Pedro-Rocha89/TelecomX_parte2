@@ -60,9 +60,9 @@ Este projeto faz parte do **Challenge ONE Data Science da Alura**, focado na an�
   * **Tempo de Contrato (meses\_de\_servico):** A análise de boxplot mostrou que clientes que cancelam o serviço tendem a ter um tempo de permanência muito menor na empresa. O risco de churn é mais alto nos primeiros meses de contrato.
   * **Contrato de Dois Anos e Ausência de Internet:** Em contrapartida, clientes com contratos de 2 anos (taxa de churn de apenas **2.8%**) e aqueles sem serviço de internet (taxa de churn de **7.4%**) são os mais leais.
 
-## Relatório
+## 📄 Relatório
 
-Com base nos achados da análise, são propostas as seguintes recomendações para reduzir a taxa de churn:
+Com base nos achados da análise, são propostas as seguintes recomendações para reduzir a taxa de cancelamento:
 
   * **Incentivar Contratos de Longo Prazo:** Criar ofertas e descontos especiais para clientes com contrato mensal migrarem para planos de 1 ou 2 anos.
   * **Otimizar o Serviço de Fibra Ótica:** Realizar uma investigação focada na qualidade e no custo-benefício do serviço de fibra ótica para identificar e corrigir os principais pontos de insatisfação.
